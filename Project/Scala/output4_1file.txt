@@ -1,0 +1,41 @@
+Time elapsed to read the data: 107.715449737s
+Count of lines: 16015695
++-------------------+-------+
+|          subreddit|  count|
++-------------------+-------+
+|          AskReddit|1974268|
+|              funny| 767517|
+|               pics| 601260|
+|            atheism| 482662|
+|             gaming| 477356|
+|                WTF| 391141|
+|           politics| 363706|
+|              trees| 296980|
+|fffffffuuuuuuuuuuuu| 294674|
+|               IAmA| 267937|
++-------------------+-------+
+only showing top 10 rows
+
+()
+Time elapsed to calculate cell 1 : 74.218149799s
++---------+------+
+|wordCount| count|
++---------+------+
+|        5|577998|
+|        6|576383|
+|        4|557269|
+|        7|554529|
+|        8|527931|
+|        1|509298|
+|        3|508632|
+|        9|495269|
+|       10|465625|
+|        2|454956|
++---------+------+
+only showing top 10 rows
+
+()
+Time elapsed to calculate cell 2 : 97.592780711s
+Average wordcount in comment: 32.56649093519132 words.
+Time elapsed to calculate cell 3 : 92.486780795s
+Total time elapsed: 264.330242198s
