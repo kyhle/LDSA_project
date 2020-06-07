@@ -1,7 +1,7 @@
 # Scala implementation
 ## sbt
-In order to spawn the necessary .jar file sbt package command used in the above directory layout:
-./build.sbt
+In order to spawn the necessary .jar file sbt package command used in the above directory layout: \\
+./build.sbt \\
 ./src
 ./src/main
 ./src/main/scala
