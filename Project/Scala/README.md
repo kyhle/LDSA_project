@@ -1,10 +1,10 @@
 # Scala implementation
 ## sbt
-In order to spawn the necessary .jar file sbt package command used in the above directory layout: \\
-./build.sbt \\
-./src
-./src/main
-./src/main/scala
+In order to spawn the necessary .jar file sbt package command used in the above directory layout:\
+./build.sbt\
+./src\
+./src/main\
+./src/main/scala\
 ./src/main/scala/submit_4_files.scala
 
 ## Example: Command to run the Scala version with 4 files and 4 nodes
